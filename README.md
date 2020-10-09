@@ -6,6 +6,8 @@ To use this app
 
 download https://github.com/evilcomputer12/macOSAutoJoinAndRecordZoomSession/archive/main.zip
 
+Command + Space = > Spotlight search Terminal
+
 cd macOSAutoJoinAndRecordZoomSession-main 
 
 to run the csv reader
@@ -22,7 +24,7 @@ https://download.vb-audio.com/Download_MAC/VBCable_MACDriver_Pack107.dmg
 
 And you need to do this steps shown in the pictures bellow:
 
-Command + Space = > Spotlight search 
+Command + Space = > Spotlight search Midi Audio Setup
 
 ![alt text](https://github.com/evilcomputer12/macOSAutoJoinAndRecordZoomSession/blob/main/midi.png?raw=true)
 ![alt text](https://github.com/evilcomputer12/macOSAutoJoinAndRecordZoomSession/blob/main/midi1.png?raw=true)
