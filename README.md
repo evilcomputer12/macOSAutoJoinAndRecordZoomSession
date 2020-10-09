@@ -2,6 +2,20 @@
 
 This tool can be used to automatically Join Zoom Sessions and Record the desktop. It uses pandas to read the start time, end time, weekday, zoom id or link and password stored inside a csv file. The csv file can be edited with the csvreader.py or manually with text editor. The screen is recorded with pyobjc-Framework-avfoundation.
 
+To use this app
+
+download https://github.com/evilcomputer12/macOSAutoJoinAndRecordZoomSession/archive/main.zip
+
+cd macOSAutoJoinAndRecordZoomSession-main 
+
+to run the csv reader
+
+./readcsv.sh
+
+to run the app
+
+./main.sh
+
 To record the desktop audio you need to install kernel extension.
 
 https://download.vb-audio.com/Download_MAC/VBCable_MACDriver_Pack107.dmg
