@@ -8,6 +8,8 @@ download https://github.com/evilcomputer12/macOSAutoJoinAndRecordZoomSession/arc
 
 Command + Space = > Spotlight search Terminal
 
+Unarchive it
+
 cd macOSAutoJoinAndRecordZoomSession-main 
 
 to run the csv reader
